@@ -1,4 +1,8 @@
-# ◈ TezBox Wallet
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TezBoxFoundation/TezBox/dev/tezbox.png" alt="TezBox Wallet Logo" width="220">
+</p>
+
+<h1 align="center">TezBox Wallet</h1>
 
 <h3 align="center">Your Tezos. Your Wallet. Your Freedom.</h3>
 
@@ -7,16 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TEZBOX-WALLET-6C63FF?style=for-the-badge&labelColor=15152B" />
-  <img src="https://img.shields.io/badge/BLOCKCHAIN-TEZOS-2C7DF7?style=for-the-badge&labelColor=15152B" />
-  <img src="https://img.shields.io/badge/PLATFORM-CROSS--PLATFORM-16BFA5?style=for-the-badge&labelColor=15152B" />
+  <img src="https://img.shields.io/badge/TEZBOX-WALLET-6C63FF?style=for-the-badge&labelColor=15152B">
+  <img src="https://img.shields.io/badge/BLOCKCHAIN-TEZOS-2C7DF7?style=for-the-badge&labelColor=15152B">
+  <img src="https://img.shields.io/badge/CROSS--PLATFORM-WINDOWS%20%7C%20MAC%20%7C%20LINUX-16BFA5?style=for-the-badge&labelColor=15152B">
 </p>
 
 ---
 
-<p align="center">
-  <img src="./assets/tezbox-logo.png" alt="TezBox Wallet" width="180" />
-</p>
 
 ## ✨ Discover TezBox
 

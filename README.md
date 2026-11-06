@@ -9,13 +9,6 @@
 <p align="center">
   A modern desktop wallet experience for the Tezos blockchain.
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TEZBOX-WALLET-6C63FF?style=for-the-badge&labelColor=15152B">
-  <img src="https://img.shields.io/badge/BLOCKCHAIN-TEZOS-2C7DF7?style=for-the-badge&labelColor=15152B">
-  <img src="https://img.shields.io/badge/CROSS--PLATFORM-WINDOWS%20%7C%20MAC%20%7C%20LINUX-16BFA5?style=for-the-badge&labelColor=15152B">
-</p>
-
 ---
 
 

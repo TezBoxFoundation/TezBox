@@ -34,15 +34,15 @@ Experience a clean interface designed around simplicity, usability and convenien
 </p>
 
 <p align="center">
-  <a href="YOUR_WINDOWS_DOWNLOAD_URL">
+  <a href="https://github.com/TezBoxFoundation/TezBox/releases/download/6.0.1/tezbox-6.0.1.exe">
     <img src="https://img.shields.io/badge/⬇_DOWNLOAD-WINDOWS-2479E8?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_MAC_DOWNLOAD_URL">
+  <a href="https://github.com/TezBoxFoundation/TezBox/releases/download/6.0.1/tezbox-6.0.1.dmg">
     <img src="https://img.shields.io/badge/⬇_DOWNLOAD-macOS-444444?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_LINUX_DOWNLOAD_URL">
+  <a href="https://github.com/TezBoxFoundation/TezBox/releases/download/6.0.1/tezbox-x64-6.0.1.deb">
     <img src="https://img.shields.io/badge/⬇_DOWNLOAD-LINUX-F2B72C?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
 </p>
